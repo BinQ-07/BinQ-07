@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Bintang Qaulan Tsaqiila. I'm currently:
+- an undergraduate in Game Technology at Politeknik Elektronika Negeri Surabaya
 <!--
 **BinQ-07/BinQ-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
